@@ -8,5 +8,5 @@ Due to high-throughput of Kinect sensor streams, compromises and alternative sol
 
 # Web Socket client example
 Here a web socket client was created as part of a [P5.JS](https://p5js.org) sketch, and the position of the hands is steering the animation in the browser. 
-!()[docs/KinectWebSocketClient.png]
+!()[/docs/KinectWebSocketClient.png]
 
