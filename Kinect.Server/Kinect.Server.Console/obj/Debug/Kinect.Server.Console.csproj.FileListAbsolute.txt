@@ -1,0 +1,13 @@
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Server.Console\bin\Debug\App.config
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Server.Console\bin\Debug\Kinect.Server.Console.exe.config
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Server.Console\bin\Debug\Kinect.Server.Console.exe
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Server.Console\bin\Debug\Kinect.Server.Console.pdb
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Server.Console\bin\Debug\KinectService.dll
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Server.Console\bin\Debug\Microsoft.Kinect.dll
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Server.Console\bin\Debug\KinectService.pdb
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Server.Console\bin\Debug\KinectService.dll.config
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Server.Console\bin\Debug\Microsoft.Kinect.xml
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Server.Console\obj\Debug\Kinect.Server.Console.csprojResolveAssemblyReference.cache
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Server.Console\obj\Debug\Kinect.Server.Console.csproj.CoreCompileInputs.cache
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Server.Console\obj\Debug\Kinect.Server.Console.exe
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Server.Console\obj\Debug\Kinect.Server.Console.pdb

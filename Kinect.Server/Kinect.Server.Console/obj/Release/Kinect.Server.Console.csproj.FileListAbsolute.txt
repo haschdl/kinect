@@ -1,0 +1,12 @@
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Server.Console\bin\Release\App - Copy.config_bkp
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Server.Console\bin\Release\App.config
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Server.Console\bin\Release\Kinect.Server.Console.exe.config
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Server.Console\bin\Release\Kinect.Server.Console.exe
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Server.Console\bin\Release\Kinect.Server.Console.pdb
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Server.Console\bin\Release\KinectToolboxService.dll
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Server.Console\bin\Release\Microsoft.Kinect.dll
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Server.Console\bin\Release\KinectToolboxService.pdb
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Server.Console\bin\Release\Microsoft.Kinect.xml
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Server.Console\obj\Release\Kinect.Server.Console.csprojResolveAssemblyReference.cache
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Server.Console\obj\Release\Kinect.Server.Console.exe
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Server.Console\obj\Release\Kinect.Server.Console.pdb

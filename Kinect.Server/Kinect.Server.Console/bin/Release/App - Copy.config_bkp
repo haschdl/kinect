@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+
+  <appSettings>
+    <add key="aspnet:UseTaskFriendlySynchronizationContext" value="true" />
+  </appSettings>
+  <system.web>
+    <compilation debug="true" targetFramework="4.5" />
+  </system.web>
+  <system.serviceModel>
+    <protocolMapping>
+      <add scheme="http" binding="netHttpBinding"/>
+      <add scheme="https" binding="netHttpsBinding"/>
+    </protocolMapping>
+    <behaviors>
+      <serviceBehaviors>
+        <behavior name="">
+          <serviceMetadata httpGetEnabled="true" httpsGetEnabled="true" />
+          <serviceDebug includeExceptionDetailInFaults="false" />
+        </behavior>
+
+        <behavior name="KinectServiceBehavior">
+          <serviceMetadata httpGetEnabled="true"/>
+          <serviceDebug includeExceptionDetailInFaults="False"/>
+        </behavior>
+      </serviceBehaviors>
+    </behaviors>
+    <serviceHostingEnvironment aspNetCompatibilityEnabled="true"
+        multipleSiteBindingsEnabled="true" />
+
+    <services>
+      <!-- This section is optional with the new configuration model
+           introduced in .NET Framework 4. -->
+      <service name="Kinect.Toolbox.Service.KinectService"
+               behaviorConfiguration="KinectServiceBehavior">
+        <host>
+          <baseAddresses>
+            <add baseAddress="http://localhost:8000/ServiceModelSamples/service"/>
+            <add baseAddress="net.pipe://localhost/kinectservice"/>
+            <add baseAddress="ws://localhost/kinectservice"/>
+          </baseAddresses>
+        </host>
+        <!-- this endpoint is exposed at the base address provided by host: http://localhost:8000/ServiceModelSamples/service 
+        <endpoint address=""
+                  binding="wsHttpBinding"
+                  contract="Kinect.Toolbox.Service.IKinectService" />
+                  -->
+        <!-- the mex endpoint is exposed at http://localhost:8000/ServiceModelSamples/service/mex -->
+        <endpoint address="mex"
+                  binding="mexHttpBinding"
+                  contract="IMetadataExchange" />
+        <!-- Namedpipes-->
+        <endpoint address="net.pipe://localhost/kinectservice"
+                  binding="netNamedPipeBinding"
+                  contract="Kinect.Toolbox.Service.IKinectService"
+                  />
+        <endpoint address="ws://localhost/kinectservice"
+                  binding="netHttpBinding"
+                  bindingConfiguration="netHttpBindingConfig"
+                  contract="Kinect.Toolbox.Service.IKinectService"
+                  />
+
+      </service>
+    </services>
+
+    <bindings>
+
+      <netNamedPipeBinding>
+        <binding name="netNamedPipeBinding" transferMode="Streamed"/>
+      </netNamedPipeBinding>
+      <netHttpBinding>
+        <binding name="netHttpBindingConfig">
+          <webSocketSettings transportUsage="Always" />
+        </binding>
+      </netHttpBinding>
+
+    </bindings>
+  </system.serviceModel>
+</configuration>

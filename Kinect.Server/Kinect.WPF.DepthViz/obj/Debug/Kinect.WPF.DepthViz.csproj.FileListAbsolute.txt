@@ -1,0 +1,15 @@
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.WPF.DepthViz\bin\Debug\Kinect.WPF.DepthViz.exe.config
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.WPF.DepthViz\bin\Debug\Kinect.WPF.DepthViz.exe
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.WPF.DepthViz\bin\Debug\Kinect.WPF.DepthViz.pdb
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.WPF.DepthViz\obj\Debug\Kinect.WPF.DepthViz.csprojResolveAssemblyReference.cache
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.WPF.DepthViz\obj\Debug\MainWindow.g.cs
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.WPF.DepthViz\obj\Debug\App.g.cs
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.WPF.DepthViz\obj\Debug\Kinect.WPF.DepthViz_MarkupCompile.cache
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.WPF.DepthViz\obj\Debug\Kinect.WPF.DepthViz_MarkupCompile.lref
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.WPF.DepthViz\obj\Debug\MainWindow.baml
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.WPF.DepthViz\obj\Debug\Kinect.WPF.DepthViz.g.resources
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.WPF.DepthViz\obj\Debug\Kinect.WPF.DepthViz.Properties.Resources.resources
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.WPF.DepthViz\obj\Debug\Kinect.WPF.DepthViz.csproj.GenerateResource.Cache
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.WPF.DepthViz\obj\Debug\Kinect.WPF.DepthViz.csproj.CoreCompileInputs.cache
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.WPF.DepthViz\obj\Debug\Kinect.WPF.DepthViz.exe
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.WPF.DepthViz\obj\Debug\Kinect.WPF.DepthViz.pdb

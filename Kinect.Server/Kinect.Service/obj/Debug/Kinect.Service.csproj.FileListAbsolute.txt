@@ -1,0 +1,10 @@
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Service\bin\Debug\App.config
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Service\bin\Debug\KinectService.dll.config
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Service\bin\Debug\KinectService.dll
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Service\bin\Debug\KinectService.pdb
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Service\bin\Debug\KinectService.tlb
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Service\bin\Debug\Microsoft.Kinect.dll
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Service\bin\Debug\Microsoft.Kinect.xml
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Service\obj\Debug\Kinect.Service.csproj.CoreCompileInputs.cache
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Service\obj\Debug\KinectService.dll
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Service\obj\Debug\KinectService.pdb

@@ -1,0 +1,6 @@
+C:\Users\scheihal\Source\Repos\Seriously.js\AnonymousPipesTest\KinectService\bin\Debug\KinectService.exe.config
+C:\Users\scheihal\Source\Repos\Seriously.js\AnonymousPipesTest\KinectService\bin\Debug\KinectService.exe
+C:\Users\scheihal\Source\Repos\Seriously.js\AnonymousPipesTest\KinectService\bin\Debug\KinectService.pdb
+C:\Users\scheihal\Source\Repos\Seriously.js\AnonymousPipesTest\KinectService\obj\Debug\KinectService.exe
+C:\Users\scheihal\Source\Repos\Seriously.js\AnonymousPipesTest\KinectService\obj\Debug\KinectService.pdb
+C:\Users\scheihal\Source\Repos\Seriously.js\AnonymousPipesTest\KinectService\obj\Debug\KinectService.csprojResolveAssemblyReference.cache

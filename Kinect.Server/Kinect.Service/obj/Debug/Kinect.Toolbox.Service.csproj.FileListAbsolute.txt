@@ -1,0 +1,29 @@
+C:\Kinect\KinectToolbox\Kinect.Toolbox.Service\bin\Debug\FaceTrackData.dll
+C:\Kinect\KinectToolbox\Kinect.Toolbox.Service\bin\Debug\FaceTrackLib.dll
+C:\Kinect\KinectToolbox\Kinect.Toolbox.Service\bin\Debug\KinectService.exe.config
+C:\Kinect\KinectToolbox\Kinect.Toolbox.Service\bin\Debug\KinectService.exe
+C:\Kinect\KinectToolbox\Kinect.Toolbox.Service\bin\Debug\KinectService.pdb
+C:\Kinect\KinectToolbox\Kinect.Toolbox.Service\bin\Debug\Kinect.Toolbox.dll
+C:\Kinect\KinectToolbox\Kinect.Toolbox.Service\bin\Debug\Microsoft.Kinect.dll
+C:\Kinect\KinectToolbox\Kinect.Toolbox.Service\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Kinect\KinectToolbox\Kinect.Toolbox.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Kinect\KinectToolbox\Kinect.Toolbox.Service\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Kinect\KinectToolbox\Kinect.Toolbox.Service\bin\Debug\Kinect.Toolbox.pdb
+C:\Kinect\KinectToolbox\Kinect.Toolbox.Service\bin\Debug\Microsoft.Kinect.xml
+C:\Kinect\KinectToolbox\Kinect.Toolbox.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Kinect\KinectToolbox\Kinect.Toolbox.Service\obj\Debug\Kinect.Toolbox.Service.csprojResolveAssemblyReference.cache
+C:\Kinect\KinectToolbox\Kinect.Toolbox.Service\obj\Debug\KinectService.exe
+C:\Kinect\KinectToolbox\Kinect.Toolbox.Service\obj\Debug\KinectService.pdb
+C:\Kinect\KinectToolbox\Kinect.Toolbox.Service\bin\Debug\App.config
+C:\Kinect\KinectToolbox\Kinect.Toolbox.Service\bin\Debug\App - Copy.config_bkp
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Toolbox.Service\obj\Debug\Kinect.Toolbox.Service.csproj.CoreCompileInputs.cache
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Toolbox.Service\bin\Debug\App.config
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Toolbox.Service\bin\Debug\KinectToolboxService.dll.config
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Toolbox.Service\bin\Debug\KinectToolboxService.dll
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Toolbox.Service\bin\Debug\KinectToolboxService.pdb
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Toolbox.Service\bin\Debug\KinectToolboxService.tlb
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Toolbox.Service\bin\Debug\Microsoft.Kinect.dll
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Toolbox.Service\bin\Debug\Microsoft.Kinect.xml
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Toolbox.Service\obj\Debug\KinectToolboxService.dll
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Toolbox.Service\obj\Debug\KinectToolboxService.pdb
+C:\Users\scheihal\Documents\Visual Studio 2015\Projects\Kinect.Server\Kinect.Toolbox.Service\obj\Debug\Kinect.Toolbox.Service.csprojResolveAssemblyReference.cache
