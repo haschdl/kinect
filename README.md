@@ -8,10 +8,10 @@ Due to high-throughput of Kinect sensor streams, compromises and alternative sol
 
 # Web Socket client example
 Here a web socket client was created as part of a [P5.JS](https://p5js.org) sketch, and the position of the hands is steering the animation in the browser. 
-[![kinect example](docs/KinectWebSocketClient.png)](https://www.youtube.com/watch?v=9G6uDCawOxw)
+[![kinect example](/Kinect.Server/docs/KinectWebSocketClient.png)](https://www.youtube.com/watch?v=9G6uDCawOxw)
 
 A more ellaborate approach is to connect to the Kinect depth stream, and use the depth image to drive an interactive panel. 
-[![kinect example](docs/KinectInteractiveGallery.gif)](https://vimeo.com/195589176)
+[![kinect example](/Kinect.Server/docs/KinectInteractiveGallery.gif)](https://vimeo.com/195589176)
 
 # Example of client code in Javascript
 I recommend to encapsulate the Kinect client in a Worker:
